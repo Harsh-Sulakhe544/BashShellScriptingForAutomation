@@ -1,0 +1,11 @@
+dallas
+paris
+moscow
+nyc
+seattle
+mexicocity
+london
+sydney
+bangkok
+tokyo
+atlanta
